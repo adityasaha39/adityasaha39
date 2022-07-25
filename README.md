@@ -4,7 +4,7 @@
 
 <div align="center" width="50">
 
-<img src="https://s4.gifyu.com/images/Hi-Welcome-to-my-profile-myself-Aditya-Saha.gif" alt="Welcome!" width="300"/>
+<img src="https://s4.gifyu.com/images/Aditya-SAHA.gif" alt="Welcome!" width="300"/>
 
 </div>
 
